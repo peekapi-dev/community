@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Documentation
+    url: https://peekapi.dev
+    about: Check the docs before opening an issue
+  - name: Discussions
+    url: https://github.com/peekapi-dev/community/discussions
+    about: Ask questions and share ideas

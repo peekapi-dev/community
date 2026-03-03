@@ -1,0 +1,47 @@
+name: Feature Request
+description: Suggest a new feature or improvement
+labels: ["enhancement"]
+body:
+  - type: dropdown
+    id: component
+    attributes:
+      label: Component
+      description: Which part of PeekAPI does this relate to?
+      options:
+        - Dashboard
+        - SDK — Node.js
+        - SDK — Python
+        - SDK — Go
+        - SDK — Ruby
+        - SDK — PHP
+        - SDK — Rust
+        - Ingestion
+        - New SDK / Integration
+        - Other
+    validations:
+      required: true
+
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem or use case
+      description: What problem does this solve, or what would it enable?
+      placeholder: "I want to..."
+    validations:
+      required: true
+
+  - type: textarea
+    id: solution
+    attributes:
+      label: Proposed solution
+      description: How do you imagine this working? API shape, UI behavior, etc.
+    validations:
+      required: false
+
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternatives considered
+      description: Any workarounds or alternative approaches you've tried?
+    validations:
+      required: false
