@@ -15,7 +15,7 @@ body:
         - SDK — Ruby
         - SDK — PHP
         - SDK — Rust
-        - Ingestion / Edge Function
+        - Ingestion
         - Other
     validations:
       required: true
