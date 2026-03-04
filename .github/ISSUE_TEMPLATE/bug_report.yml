@@ -15,6 +15,7 @@ body:
         - SDK — Ruby
         - SDK — PHP
         - SDK — Rust
+        - SDK — Java
         - Ingestion
         - Other
     validations:
