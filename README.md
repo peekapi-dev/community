@@ -18,3 +18,4 @@ Bug reports, feature requests, and discussions for [PeekAPI](https://peekapi.dev
 | Ruby | [`peekapi`](https://rubygems.org/gems/peekapi) | [README](https://github.com/peekapi-dev/sdk-ruby) |
 | PHP | [`peekapi/sdk-php`](https://packagist.org/packages/peekapi/sdk-php) | [README](https://github.com/peekapi-dev/sdk-php) |
 | Rust | [`peekapi`](https://crates.io/crates/peekapi) | [README](https://github.com/peekapi-dev/sdk-rust) |
+| Java | [`dev.peekapi:sdk-java`](https://central.sonatype.com/artifact/dev.peekapi/sdk-java) | [README](https://github.com/peekapi-dev/sdk-java) |
