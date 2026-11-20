@@ -1,5 +1,7 @@
 # PeekAPI Community
 
+> **PeekAPI has shut down.** The service closed in November 2026 and this repository is now read-only. Issues and discussions are kept for reference only. See [peekapi.dev](https://peekapi.dev).
+
 Bug reports, feature requests, and discussions for [PeekAPI](https://peekapi.dev) — plug-in analytics for any REST API.
 
 ## How to get help
